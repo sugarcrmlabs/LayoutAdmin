@@ -8,7 +8,7 @@ To contribute,
 
 Pull requests are accepted under the discretion of the Sugar Labs Admin Sudo maintainer(s). 
 Improve the chances your PR will be merged by following the requirements and guidelines below. 
-For any questions, please e-mail <blank>@sugarcrm.com.
+For any questions, please e-mail sugarlabs@sugarcrm.com.
 
 **REQUIREMENTS**
 - By creating a pull request, you are agreeing to [SugarCRM Open Source Contributor terms](CONTRIBUTOR_TERMS.pdf).
