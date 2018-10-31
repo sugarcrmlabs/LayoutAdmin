@@ -15,12 +15,15 @@ $manifest = array (
   'built_in_version' => '7.7.0.0',
   'acceptable_sugar_versions' =>
   array (
-    0 => '',
+    'regex_matches' => array(
+        '7.*','8.*'
+    ),
   ),
   'acceptable_sugar_flavors' =>
   array (
     0 => 'ENT',
     1 => 'ULT',
+    2 => 'PRO',
   ),
   'readme' => '',
   'key' => 'raw',
@@ -28,8 +31,8 @@ $manifest = array (
   'description' => '',
   'icon' => '',
   'is_uninstallable' => false,
-  'name' => 'Layout administration',
-  'published_date' => '2016-11-01 17:43:07',
+  'name' => 'Layout Administration',
+  'published_date' => '2018-06-14 08:43:07',
   'type' => 'module',
   'version' => time(),
   'remove_tables' => 'prompt',
