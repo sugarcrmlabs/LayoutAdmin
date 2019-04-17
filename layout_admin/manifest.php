@@ -16,7 +16,7 @@ $manifest = array (
   'acceptable_sugar_versions' =>
   array (
     'regex_matches' => array(
-        '7.*','8.*'
+        '7.*', '8.*', '9.*'
     ),
   ),
   'acceptable_sugar_flavors' =>
@@ -32,7 +32,7 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => false,
   'name' => 'Layout Administration',
-  'published_date' => '2018-06-14 08:43:07',
+  'published_date' => '2019-04-17 08:58:38',
   'type' => 'module',
   'version' => time(),
   'remove_tables' => 'prompt',
