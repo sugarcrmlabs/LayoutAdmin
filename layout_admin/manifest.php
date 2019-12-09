@@ -30,11 +30,11 @@ $manifest = array (
   'author' => '',
   'description' => '',
   'icon' => '',
-  'is_uninstallable' => false,
+  'is_uninstallable' => true,
   'name' => 'Layout Administration',
   'published_date' => '2019-04-17 08:58:38',
   'type' => 'module',
-  'version' => time(),
+  'version' => '1.2',
   'remove_tables' => 'prompt',
 );
 
